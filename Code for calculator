@@ -1,0 +1,7 @@
+print("____CALCULATOR____")
+a = int(input ("Enter First Number"))
+b = int(input ("Enter Second Number"))
+print("The addition of ",a,"+",b,"is",a+b)
+print("the subtraction of ",a,"-”,b,"is",a-b)
+print("The multiplication of ",a,"*",b,"is",a*b)
+print("The division of ",a,"/",b,"is",a/b)
